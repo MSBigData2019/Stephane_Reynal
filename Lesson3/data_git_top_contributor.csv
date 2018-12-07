@@ -1,0 +1,257 @@
+;User;Location;Mean of Stars
+0;fabpot;San Francisco;0
+1;andrew;Somerset, UK;0
+2;Jinjiang;Hangzhou, China;0
+3;happypeter;微信：happypeter1983;0
+4;yeasy;;0
+5;mafintosh;Copenhagen, Denmark;0
+6;vczh;Seattle, WA, USA;0
+7;Draveness;Beijing, China;0
+8;ded;California;0
+9;vladikoff;North America;0
+10;bnoordhuis;The Netherlands;0
+11;jendewalt;United States;0
+12;jessfraz;PID 1;0
+13;indutny;USA;0
+14;olivergierke;Dresden, Germany;0
+15;i5ting;china beijing;0
+16;laanwj;Eindhoven, The Netherlands;0
+17;drakeet;Hangzhou, China;0
+18;thejameskyle;Sydney;0
+19;ahmetb;Seattle, WA;0
+20;sdiehl;Boston, MA;0
+21;jaywcjlove;Shanghai, China;0
+22;gitster;Mountain View, CA;0
+23;djspiewak;Boulder, CO;0
+24;evilsocket;Rome, Italy;0
+25;mariotaku;Zhengzhou, Henan, China;0
+26;shama;Portland, OR;0
+27;CamDavidsonPilon;Ottawa, Canada;0
+28;dsyer;London;0
+29;winterbe;Hanover, Germany;0
+30;dennybritz;Mountain View, CA;0
+31;mxstbr;Vienna, Austria;0
+32;soffes;San Francisco;0
+33;vhf;Switzerland;0
+34;developit;Hamilton, Ontario, Canada;0
+35;josevalim;Kraków, Poland;0
+36;jennybc;Vancouver, BC, Canada;0
+37;BurntSushi;Marlborough, MA;0
+38;zenorocha;California;0
+39;contra;New York, NY;0
+40;jaredhanson;Berkeley, CA;0
+41;radar;Melbourne, Australia;0
+42;bevacqua;https://twitter.com/nzgb;0
+43;xudafeng;China;0
+44;j2kun;San Francisco, CA;0
+45;dominictarr;New Zealand;0
+46;avelino;Roshamuul, Menera;0
+47;vinta;Taipei, Taiwan;0
+48;ashleygwilliams;NYC;0
+49;odersky;;0
+50;ashfurrow;New York;0
+51;f;Istanbul, Turkey;0
+52;onevcat;Kawasaki, Japan/Shanghai, China;0
+53;toddmotto;England, UK;0
+54;gdi2290;San Francisco, CA;0
+55;EisenbergEffect;;0
+56;ankane;San Francisco, CA;0
+57;keijiro;Japan;0
+58;nolimits4web;Rostov-on-Don, Russia;0
+59;davidfowl;Bellevue, WA;0
+60;biezhi;Shanghai, China;0
+61;LeaVerou;Boston, MA;0
+62;davidtmiller;Orlando, FL;0
+63;arun-gupta;San Jose, CA;0
+64;maryrosecook;London, UK;0
+65;killme2008;HangZhou/SuZhou,China;0
+66;rtomayko;Austin, TX;0
+67;codahale;Oakland, CA;0
+68;amitshekhariitbhu;New Delhi, India;0
+69;rakyll;San Francisco, CA;0
+70;junyanz;Berkeley, CA;0
+71;simurai;Sapporo, Japan;0
+72;nicolasgramlich;San Francisco, CA;0
+73;shiffman;New York, NY;0
+74;purcell;Wellington, New Zealand;0
+75;evanphx;Los Angeles, CA;0
+76;ericelliott;San Francisco, California;0
+77;matyhtf;China;0
+78;StephenGrider;;0
+79;AdamBien;Planet Java;0
+80;tomchristie;Brighton, UK;0
+81;bailicangdu;Shanghai, China;0
+82;be5invis;Beijing, China;0
+83;amueller;NYC;0
+84;dead-horse;Hangzhou, China;0
+85;remy;Brighton, UK;0
+86;Unknwon;Boston, MA;0
+87;jiyinyiyong;Shanghai, China;0
+88;Shougo;Vim;0
+89;arunoda;Colombo, Sri Lanka;0
+90;benoitc;Creil, France;0
+91;ask;Palo Alto, CA;0
+92;JohnSundell;Poland / Norway / Sweden;0
+93;Raynos;San Francisco;0
+94;samuelclay;San Francisco;0
+95;nikic;Berlin, Germany;0
+96;joyeecheung;;0
+97;IanLunn;Devon, UK;0
+98;gorhill;Canada / Québec;0
+99;ruanyf;Shanghai, China;0
+100;binux;London, UK;0
+101;nfultz;Los Angeles, CA;0
+102;leah;San Francisco, CA;0
+103;suissa;Curitiba - PR;0
+104;anishathalye;Cambridge, MA;0
+105;pkrumins;SF Bay Area;0
+106;isaacs;Oakland CA;0
+107;staltz;Helsinki, Finland;0
+108;KittenYang;Shanghai,China;0
+109;leebyron;San Francisco;0
+110;fengmk2;Hangzhou, China;0
+111;passy;London, UK;0
+112;phuslu;Nanjing, China;0
+113;Seldaek;Zürich, Zurich, Switzerland;0
+114;mrmrs;London;0
+115;siddontang;China;0
+116;daylerees;Wales, UK;0
+117;weavejester;London, UK;0
+118;zce;Beijing, China;0
+119;philsturgeon;Brooklyn, NY;0
+120;oldratlee;Hangzhou, Zhejiang, China;0
+121;josephmisiti;NYC, NY;0
+122;atian25;GuangZhou, China;0
+123;ebidel;San Francisco, CA;0
+124;overtrue;Shenzhen,China;0
+125;connors;Castro Valley, CA;0
+126;eliben;California;0
+127;wesm;New York, NY;0
+128;alanhamlett;San Francisco;0
+129;marijnh;Berlin;0
+130;jdalton;;0
+131;drnic;Brisbane, Australia;0
+132;rafaelfranca;Ottawa, ON;0
+133;Ocramius;Frankfurt am Main;0
+134;mitchellh;Los Angeles, CA;0
+135;stof;Paris;0
+136;IgorMinar;SF Bay Area, CA;0
+137;phodal;Shenzhen, China;0
+138;jwiegley;California, USA;0
+139;geerlingguy;St. Louis, MO;0
+140;dcramer;San Francisco, CA;0
+141;sebastianbergmann;Siegburg, Germany;0
+142;brunocvcunha;Worldwide;0
+143;ljharb;San Mateo, CA;0
+144;sevilayha;Las Vegas;0
+145;appleboy;Hsinchu, Taiwan;0
+146;paulmillr;Worldwide;0
+147;tmm1;San Francisco, CA;0
+148;c9s;Taipei, Taiwan;0
+149;zcbenz;Tokyo, Japan / China;0
+150;holman;San Francisco;0
+151;kevinsawicki;Portland, OR;0
+152;yihui;Omaha, NE;0
+153;buckyroberts;Pasadena, CA;0
+154;kbrsh;;0
+155;dmalan;Cambridge, MA, USA;0
+156;mhevery;;0
+157;mgechev;California, USA;0
+158;kylef;London, England;0
+159;Rich-Harris;NYC;0
+160;hadley;Houston, TX;0
+161;ayende;Israel;0
+162;rstacruz;Manila, Philippines;0
+163;taylorotwell;Little Rock, AR;0
+164;egoist;Chengdu, China;0
+165;HugoGiraudel;Berlin;0
+166;ornicar;Paris, France;0
+167;bebraw;Vienna, Austria;0
+168;nelsonic;London;0
+169;alexcrichton;San Francisco, CA;0
+170;jonathanong;Los Angeles, CA;0
+171;mikermcneil;Austin, TX;0
+172;benbalter;Washington, DC;0
+173;jxnblk;New York City;0
+174;yegor256;Palo Alto, CA;0
+175;orta;NYC / Huddersfield;0
+176;GrahamCampbell;The United Kingdom;0
+177;nvie;Netherlands;0
+178;afc163;Hangzhou, China;0
+179;kamranahmedse;Dubai;0
+180;joshaber;The Gem City;0
+181;bkeepers;;0
+182;kennethreitz;Winchester, VA;0
+183;kytrinyx;;0
+184;STRML;Milwaukee, WI;0
+185;atmos;South Lake Tahoe;0
+186;weierophinney;Sioux Falls, SD, USA;0
+187;agentzh;San Francisco Bay Area;0
+188;steipete;Vienna, Austria;0
+189;ai;Saint Petersburg, Russia;0
+190;mikepenz;Linz, Austria;0
+191;chjj;San Francisco;0
+192;mcollina;In the clouds above Italy;0
+193;sokra;Germany;0
+194;krzysztofzablocki;Warsaw, Poland;0
+195;0x00A;NYC;0
+196;tmcw;San Francisco, CA;0
+197;brentvatne;Vancouver, Canada;0
+198;carpedm20;;0
+199;benjamn;New York City;0
+200;notwaldorf;Sun Funcisco ☀️;0
+201;miyagawa;San Francisco, CA;0
+202;rnystrom;New York, NY;0
+203;photonstorm;UK;0
+204;mattn;Osaka, Japan;0
+205;dougwilson;;0
+206;JakeWharton;Pittsburgh, PA, USA;0
+207;yyx990803;New Jersey / China;0
+208;eduardolundgren;California;0
+209;SamyPesse;Lyon, France;0
+210;vjeux;San Francisco, California;0
+211;mxcl;Savannah, GA;0
+212;domenic;New York, NY;0
+213;alex;Washington D.C.;0
+214;mrdoob;;0
+215;josegonzalez;New York, NY;0
+216;fzaninotto;Nancy, France;0
+217;pissang;Shanghai, China;0
+218;jamesmontemagno;Seattle, WA;0
+219;paulcbetts;San Francisco;0
+220;paulirish;Palo Alto;0
+221;samdark;Russia;0
+222;madskristensen;Redmond, WA;0
+223;mjhea0;Boulder;0
+224;DataTables;Scotland;0
+225;mdo;San Francisco, CA;0
+226;michalbe;Warsaw, Poland;0
+227;yoshuawuyts;Berlin, Germany;0
+228;muan;Taipei, Taiwan;0
+229;kentcdodds;Salt Lake City, Utah, USA;0
+230;jskeet;London, UK;0
+231;mitsuhiko;Austria;0
+232;steveklabnik;Brooklyn;0
+233;hzoo;ATL -> NYC;0
+234;Caged;Portland, OR;0
+235;dlew;Minneapolis;0
+236;technoweenie;Louisville, CO;0
+237;gaearon;London, UK;0
+238;soumith;New York, USA;0
+239;feross;Mountain View, CA;0
+240;brianleroux;San Francisco, USA || Vancouver, Canada;0
+241;chenglou;Palo Alto, California;0
+242;willdurand;Germany;0
+243;alexjlockwood;San Francisco, CA;0
+244;matsko;San Francisco, California;0
+245;stefanpenner;San Jose, CA;0
+246;adamwathan;Ontario, Canada;0
+247;Haacked;Bellevue, WA;0
+248;curran;Earth;0
+249;rauchg;SF;0
+250;ianstormtaylor;San Francisco, CA;0
+251;KrauseFx;San Francisco;0
+252;tj;Victoria, BC, Canada;0
+253;jgm;Berkeley, CA;0
+254;jverkoey;New York, NY;0
+255;unicodeveloper;Lagos, Nigeria;0
